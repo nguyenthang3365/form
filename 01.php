@@ -1,3 +1,1 @@
-<?php
-     echo "helo word";
-?>
+<h1> day la file php </h1>
